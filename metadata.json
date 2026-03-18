@@ -1,0 +1,7 @@
+{
+  "name": "AgentMatch",
+  "description": "The world's leading search engine for AI agents. Find, compare, and automate your business with independently tested AI agents.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
